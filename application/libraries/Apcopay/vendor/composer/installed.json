@@ -1,0 +1,39 @@
+[
+    {
+        "name": "apcopay/apcopay_php",
+        "version": "v1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ApcoPay/apcopay_php.git",
+            "reference": "7de1210dbc4c290af0439d11e4a1c1d685f541d1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ApcoPay/apcopay_php/zipball/7de1210dbc4c290af0439d11e4a1c1d685f541d1",
+            "reference": "7de1210dbc4c290af0439d11e4a1c1d685f541d1",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*"
+        },
+        "time": "2019-11-07T09:52:25+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ApcoPay\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "ApcoPay",
+                "homepage": "https://www.apcopay.eu"
+            }
+        ]
+    }
+]

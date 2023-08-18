@@ -1,0 +1,1 @@
+processing....<script>window.parent.location="<?php echo base_url();?>thankyou";</script>
